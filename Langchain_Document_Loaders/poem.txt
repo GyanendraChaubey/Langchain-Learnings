@@ -1,0 +1,51 @@
+In a world of code and structured dreams,
+Where prompts and parsers stitch new seams,
+Morning dawns: I clear my mind,
+Gemini models, parsing confined.
+
+With tangled strings and schema woes,
+I dip my toes where data flows—
+A pipe connects, all neat and right,
+Category, subcategory, in logic’s light.
+
+The Hugging Face of Gemma wakes,
+Chat wrappers shape the path it takes.
+No longer raw, the endpoint bends
+To structured forms where meaning ends.
+
+Lunch breaks rise and lines are drawn,
+Tests and fixes—carry on!
+Sequential steps: the chain proceeds—
+A patient’s needs, the model feeds.
+
+Graph ASCII-scrawled, each node in view,
+A stream of thought, now breaking through.
+Pydantic fields and validators call,
+No wild subtypes—order for all.
+
+TypedDict, Pydantic: side by side,
+Validation deep, or just a guide?
+Successive trials, hands-on proof,
+I note the shape—the chain’s reproof.
+
+“Dipped my toes,” a trial run,
+Prompt, model, parser—one by one.
+Prototyped and mapped the flow,
+And learned the why for every “no.”
+
+As sunset claims the day from me,
+I punch out, smiling quietly—
+Knowing each chain and schema tweak
+Built bridges where chaos used to speak.
+
+End-to-end, debugger’s friend,
+You built for trust and truths that blend.
+Tomorrow’s models wait in line—
+Their pipelines, too, will learn to shine.
+
+
+
+
+
+
+

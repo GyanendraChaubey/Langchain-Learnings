@@ -1,0 +1,47 @@
+# LangChain Core
+langchain 
+langchain-core
+langchain-community
+# OpenAI Integration
+langchain-openai 
+openai
+# Anthropic Integration
+langchain-anthropic
+# Google Gemini (PaLM) Integration
+langchain-google-genai 
+google-generativeai
+# Hugging Face Integration
+langchain-huggingface 
+transformers 
+huggingface-hub
+# Experimental utilities
+langchain-experimental
+# Text splitters (separate package)
+langchain-text-splitters
+# Vector store
+chromadb
+# Tokenization
+tiktoken
+# PDF support
+pypdf
+pymupdf
+# Environment Variable Management
+python-dotenv
+# Machine Learning Utilities
+numpy 
+scikit-learn
+
+# langchain-chroma
+langchain-chroma
+
+# wikipedia
+wikipedia
+
+# arxiv
+arxiv
+
+# faiss
+faiss-cpu
+
+#youtube-transcript-api
+youtube-transcript-api

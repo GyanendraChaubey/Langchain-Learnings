@@ -1,0 +1,20 @@
+{
+    "title": "Therapy Recommendation Schema",
+    "description": "Schema for therapy recommendations based on patient profile",
+    "type": "object",
+    "properties": {
+        "Therapy Category": {
+            "type": "string",
+            "description": "The category of therapy recommended (e.g., Yoga and Pranayam, Kirtan and Mantras, etc.)"
+        },
+        "Therapy Subcategory": {
+            "type": "string",
+            "description": "The specific subtype of the therapy category (e.g., Relaxation Techniques, Mindfulness Practices, etc.)"
+        },
+        "Therapy Rationale": {
+            "type": "string",
+            "description": "A brief explanation of why this therapy is recommended based on the patient's profile"
+        }
+    },
+    "required": ["Therapy Category", "Therapy Subcategory", "Therapy Rationale"]
+}
